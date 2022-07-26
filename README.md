@@ -1,3 +1,1 @@
-# Autoencoder-and-CNN
-Autoencoder and CNN Performance
-ImageNet is our dataset in this code
+Explore the autoencoder architecture to reconstruct MNIST dataset using Keras
