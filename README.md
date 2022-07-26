@@ -1,1 +1,1 @@
-Explore the autoencoder architecture to reconstruct MNIST dataset using Keras
+Explore the autoencoder architecture to reconstruct images from the MNIST dataset using Keras
